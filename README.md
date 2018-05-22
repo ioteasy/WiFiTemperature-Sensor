@@ -5,6 +5,9 @@ WiFi Temperature sensor based on ESP8266
 
 ## Support sensores:
 DHT22/DHT11
+
 SHT21D
+
 Si7021
+
 DS18B20
